@@ -1,0 +1,6 @@
+echo "# https-github.com-Unity-Technologies-FPSSample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Monochop/https-github.com-Unity-Technologies-FPSSample.git
+git push -u origin master
